@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "My First Post",
+        "content": "This is the content of my first post."
+    },
+    {
+        "id": 2,
+        "title": "Learning GitHub Pages",
+        "content": "This is a guide to hosting static sites on GitHub Pages."
+    },
+    {
+        "id": 3,
+        "title": "Static Sites are Cool!",
+        "content": "Static sites are fast, simple, and easy to host."
+    }
+]
